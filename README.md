@@ -3,7 +3,7 @@ In depth analysis of Olympic games of all time.
 
 Dataset used can be found here- [Olympics Dataset](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results)
 
-This project is deployed on Heroku and can be accessed here - [Olympic games analysis](https://olympics-analysis-all-time.herokuapp.com/)
+This project is deployed on Heroku and can be accessed here - [Olympic games analysis](https://olympics-game-analysis.herokuapp.com/)
 
 # About the Dataset
 
